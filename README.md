@@ -3,6 +3,9 @@
 # AV-Finish-Webhook
 This script sends notifications via Discord webhooks when you finish a game in *Anime Vanguards*.
 
+![image](https://github.com/user-attachments/assets/d3187330-6235-43ae-8842-8943a1bfd923) ![image](https://github.com/user-attachments/assets/87d73365-319a-46a2-a791-bc63695a4700)
+
+
 ---
 
 ## Ingame Settings
