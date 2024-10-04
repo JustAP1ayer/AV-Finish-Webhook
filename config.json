@@ -1,10 +1,11 @@
 {
     "discord_webhook": [
-        "https://discord.com/api/webhooks"
+        "https://discord.com/api/webhooks
+        "
     ],
     "send_webhook_delay": 0.1,
     "screenshot_delay": 0.4,
-    "ping_players": false,
+    "ping_players": true,
     "player_id_to_ping": [
         "123456789"
     ],
